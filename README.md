@@ -1,4 +1,4 @@
-# WiiFlow Lite
+# WiiFlow Lite 中文版
 
 
 ## WiiFlow WFL
