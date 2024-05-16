@@ -1,10 +1,9 @@
 # -- coding: UTF-8 --
 
 import os
-import shutil
-import subprocess
 
 from local_configs import LocalConfigs
+
 
 def compare_string_id(src_language_file, dest_language_file):
     languages_folder = os.path.join(LocalConfigs.REPOSITORY_FOLDER, "wiiflow\\languages")
