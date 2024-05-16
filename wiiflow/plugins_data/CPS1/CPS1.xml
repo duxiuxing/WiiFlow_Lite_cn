@@ -289,7 +289,7 @@ Final Fight consiste em seis etapas ou "rodadas", bem como duas rodadas de bônu
 	<game name="Forgotten Worlds">
 		<id>37363A</id>
 	<locale lang="EN">
-	<title>Forgotten Worlds</title>
+	<title>失落的世界</title>
 	<synopsis>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</synopsis>
 	<genre>Shoot'em Up,Shoot'em up / Horizontal</genre>
 	</locale>
@@ -312,6 +312,9 @@ Situado em um futuro distante, um deus maligno conhecido como Imperador BIOS des
 	</locale>
 	<locale lang="JA">
 	<title>Lost Worlds</title>
+	</locale>
+	<locale lang="ZHCN">
+		<title>失落的世界</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -559,7 +562,7 @@ No final do jogo, quando Drokmar é derrotado, o jogador tem a opção de duas t
 	<game name="Mega Man - The Power Battle">
 		<id>78892A</id>
 	<locale lang="EN">
-	<title>Mega Man: The Power Battle</title>
+	<title>洛克人 - 力量对决</title>
 	<synopsis>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</synopsis>
 	<genre>Fight /  Co-op,Fight</genre>
 	</locale>
@@ -589,6 +592,9 @@ Uma adaptação de ambos os jogos para o Neo Geo Pocket Color, intitulado Rockma
 	</locale>
 	<locale lang="JA">
 	<title>Rockman: The Power Battle</title>
+	</locale>
+	<locale lang="ZHCN">
+		<title>洛克人 - 力量对决</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -779,7 +785,7 @@ Nemo is a colourful and abstract platform shoot-em-up set in the dream world of 
 	<game name="Pang! 3">
 		<id>37373A</id>
 	<locale lang="EN">
-	<title>Pang! 3</title>
+	<title>射气泡3</title>
 	<synopsis>Pang! 3 is the second sequel to the superb 1989 original, Pang! 3 retains the same gameplay of its predecessors but adds vastly improved graphics and a choice of three difficulty levels; Beginner, Normal and Panic. On both the 'Normal' and 'Panic' skill levels, players can choose from 4 different playable characters; each possessing different strengths and weaknesses, such as a double harpoon or quick shots. On the beginner level, players can only use the Mexican character.
 
 Another notable difference is in the game's use of backdrops: instead of the world landmarks of the first two games, Pang! 3 features classical works of art in the form of paintings and sculptures.</synopsis>
@@ -801,6 +807,9 @@ Another notable difference is in the game's use of backdrops: instead of the wor
 
 Ajude os dois personagens individuais a usarem as suas habilidades especiais para superar os obstáculos e estourar os balões! Assuma o controle de Don Tacos e use sua capacidade de atirar duas barreiras em direções separadas, ou Pirate Hog e sua habilidade incrível de enganchar barreiras sobre os níveis no topo da área também! Há também o Pink Leopard e Sheila the Thief para ajudar as missões! Com seus personagens escolhidos você deve percorrer os níveis para estourar todas os balões no menor número de acertos e tempo possível.</synopsis>
 	</locale>
+	<locale lang="ZHCN">
+		<title>射气泡3</title>
+	</locale>
 		<developer>Mitchell</developer>
 		<publisher>Capcom</publisher>
 		<date year="1995" month="" day=""/>
@@ -816,7 +825,7 @@ Ajude os dois personagens individuais a usarem as suas habilidades especiais par
 	<game name="Pnickies">
 		<id>37374A</id>
 	<locale lang="EN">
-	<title>Pnickies</title>
+	<title>魔法方块</title>
 	<synopsis>A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.</synopsis>
 	<genre>Puzzle-Game,Puzzle-Game / Fall</genre>
 	</locale>
@@ -840,6 +849,9 @@ Il faudra donc agencer vos Pnickies de manière à les détruire. Pour ce faire,
 	<locale lang="PT">
 	<synopsis>Um jogo de queda de blocos lançado apenas para arcades. Os blocos da mesma cor combinam-se junto e mais pontos são concedidos por combos maiores.</synopsis>
 	<genre>Quebra-cabeças,Quebra-cabeças / Queda</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>魔法方块</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -925,7 +937,7 @@ Il faudra donc agencer vos Pnickies de manière à les détruire. Pour ce faire,
 	<game name="Quiz And Dragons - Capcom Quiz Game">
 		<id>42583A</id>
 	<locale lang="EN">
-	<title>Quiz &amp; Dragons: Capcom Quiz Game</title>
+	<title>屠龙问答</title>
 	<synopsis>The game plays similar to a board game, where the player is given a predetermined dice roll that moves the player up to six spaces on the board; however, if the player is so given the choice, he can move to a space of his choosing if there is a fork in the road. After landing on a space, the player is given a series of questions (the amount of questions needed to be answered increase as the game progresses) in order to proceed back to the board for another dice roll. The player is given a time limit to answer the question, with points given that vary based on how fast the player answered the question correctly. If the player is successful in answering a question, one of the orbs above the enemy's portrait will light up, indicating a correct answer. If the player answers a question incorrectly, he will lose a life point. if the player loses all life points, the player must continue within the time limit or else the game is over.</synopsis>
 	<genre>Quiz,Quiz / English</genre>
 	</locale>
@@ -946,6 +958,9 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<synopsis>O jogo é semelhante a um jogo de tabuleiro, onde o jogador recebe um lance de dados predeterminado que move o jogador até seis casas no tabuleiro; no entanto, se o jogador tiver essa opção, ele poderá se mover para um espaço de sua escolha se houver uma bifurcação na estrada. Depois de aterrissar em um espaço, o jogador recebe uma série de perguntas (a quantidade de perguntas que precisam ser respondidas aumentam à medida que o jogo avança) para voltar ao tabuleiro para outro teste de dados. O jogador recebe um limite de tempo para responder à pergunta, com pontos que variam de acordo com a rapidez com que o jogador respondeu à pergunta corretamente. Se o jogador for bem sucedido em responder a uma pergunta, um dos orbes acima do retrato do inimigo se acenderá, indicando uma resposta correta. Se o jogador responder uma pergunta incorretamente, ele perderá um ponto de vida. Se o jogador perder todos os pontos de vida, o jogador deve continuar dentro do limite de tempo ou então o jogo termina.</synopsis>
 	<genre>Quiz,Quiz / Inglês</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>屠龙问答</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1992" month="" day=""/>
@@ -961,7 +976,7 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<game name="Quiz Tonosama No Yabou 2 - Zenkoku-ban">
 		<id>42606A</id>
 	<locale lang="EN">
-	<title>Quiz Tonosama no Yabou 2: Zenkoku-ban</title>
+	<title>城主的野心问答2 - 全国版</title>
 	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban is a feudal Japanese quiz game from Capcom.</synopsis>
 	<genre>Quiz,Quiz / Japanese</genre>
 	</locale>
@@ -980,6 +995,9 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban é um jogo de perguntas feudal japonês da Capcom.</synopsis>
 	<genre>Quiz,Quiz / Japonês</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>城主的野心问答2 - 全国版</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1995" month="" day=""/>
@@ -995,7 +1013,7 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<game name="Saturday Night Slam Masters">
 		<id>37379A</id>
 	<locale lang="EN">
-	<title>Saturday Night Slam Masters</title>
+	<title>摔跤霸王</title>
 	<synopsis>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</synopsis>
 	<genre>Sports,Sports / Wrestling</genre>
 	</locale>
@@ -1015,6 +1033,9 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 O jogo foi seguido de um upgrade chamado "Muscle Bomber Duo: Ultimate Team Battle" em Dezembro de 1993.</synopsis>
 	<genre>Esporte,Esporte / Luta Livre</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>摔跤霸王</title>
+	</locale>	
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1993" month="" day=""/>
@@ -1030,7 +1051,7 @@ O jogo foi seguido de um upgrade chamado "Muscle Bomber Duo: Ultimate Team Battl
 	<game name="Street Fighter 2 - Hyper Fighting">
 		<id>37378A</id>
 	<locale lang="EN">
-	<title>Street Fighter II : Hyper Fighting</title>
+	<title>街头霸王II - 战斗宣言</title>
 	<synopsis>Street Fighter II' - Hyper Fighting is the second SFII follow-up. Here's what's new: 
 Gameplay is SIGNIFICANTLY sped up to intensify the pace of the game. 
 More special moves (ie. Chun Li's fireball, Dhalsim's Yoga Teleport) are added for each character except for M. Bison. 
@@ -1059,6 +1080,9 @@ Hyper Fighting é o ultimo jogo da série a utilizar o hardware original do CP S
 	</locale>
 	<locale lang="JA">
 	<title>Street Fighter II' Turbo: Hyper Fighting</title>
+	</locale>
+	<locale lang="ZHCN">
+		<title>街头霸王II - 战斗宣言</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1157,7 +1181,7 @@ Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype d
 	<game name="Street Fighter Zero">
 		<id>64254A</id>
 	<locale lang="EN">
-	<title>Street Fighter Alpha: Warriors' Dreams</title>
+	<title>少年街霸 - 斗士的梦想</title>
 	<synopsis>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</synopsis>
 	<genre>Fight,Fight / 2D</genre>
 	</locale>
@@ -1179,6 +1203,9 @@ Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype d
 	<locale lang="JA">
 	<title>Street Fighter Zero</title>
 	</locale>
+	<locale lang="EN">
+		<title>少年街霸 - 斗士的梦想</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1995" month="" day=""/>
@@ -1194,7 +1221,7 @@ Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype d
 	<game name="Strider">
 		<id>37380A</id>
 	<locale lang="EN">
-	<title>Strider</title>
+	<title>出击飞龙</title>
 	<synopsis>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
 
 Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race. </synopsis>
@@ -1218,6 +1245,9 @@ Todavia, Hiryu, um valente guerreiro Strider, armado com sua poderosa espada cyp
 	</locale>
 	<locale lang="JA">
 	<title>Strider Hiryu</title>
+	</locale>
+	<locale lang="ZHCN">
+		<title>出击飞龙</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1364,7 +1394,7 @@ Greg Gates: Greg voa um A-10 Thunderbolt; Este avião tem menor poder de fogo pa
 	<game name="Varth - Operation Thunderstorm">
 		<id>37382A</id>
 	<locale lang="EN">
-	<title>Varth: Operation Thunderstorm</title>
+	<title>威虎战机</title>
 	<synopsis>Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.</synopsis>
 	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
 	</locale>
@@ -1383,6 +1413,9 @@ Greg Gates: Greg voa um A-10 Thunderbolt; Este avião tem menor poder de fogo pa
 	<synopsis>Varth: Operation Thunderstorm é um jogo de arcade no gênero de tiro com rolagem vertical, publicado em 1992. O jogo não viu um port para consoles após seu lançamento inicial, mas 14 anos depois o Digital Eclipse Software colocaria o jogo no PlayStation 2, PSP e Xbox como parte da coleção Capcom Classics Vol. 2</synopsis>
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>威虎战机</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1992" month="" day=""/>
@@ -1398,7 +1431,7 @@ Greg Gates: Greg voa um A-10 Thunderbolt; Este avião tem menor poder de fogo pa
 	<game name="Willow">
 		<id>37383A</id>
 	<locale lang="EN">
-	<title>Willow</title>
+	<title>威洛之旅</title>
 	<synopsis>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
 
 The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</synopsis>
@@ -1426,6 +1459,9 @@ Jogos de Willow não relacionados também foram lançados para o Amiga, Atari ST
 Enredo
 A bruxa malvada rainha Bavmorda está atrás do bebê santo das terras, Elora Danan, com a intenção de destruí-la. Um jovem assistente chamado Willow Ufgood foi selecionado para proteger Elora. Mais tarde, um bravo guerreiro chamado Madmartigan se junta a Willow para lutar contra o rival rival Geral Kael.</synopsis>
 	<genre>Plataforma,Plataforma / Tiro com rolagem</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>威洛之旅</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Lucasfilm</publisher>
