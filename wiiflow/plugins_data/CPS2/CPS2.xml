@@ -4,7 +4,7 @@
 	<game name="1944 - The Loop Master">
 		<id>37385A</id>
 	<locale lang="EN">
-	<title>1944 : The Loop Master</title>
+	<title>1944 - 循环的征服者</title>
 	<synopsis>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</synopsis>
 	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
 	</locale>
@@ -23,6 +23,9 @@
 	<synopsis>O jogo se passa nas acaloradas batalhas de 1944, durante a Segunda Guerra Mundial, quando um super-piloto tenta derrotar um exército inteiro. O jogo funciona e joga como a maioria dos shooters. O objetivo de todos os níveis é atirar em aviões inimigos, tanques, trens, torres de batalha e derrotar o chefe após cada nível. Ao contrário de seu antecessor, 19XX: The War Against Destiny, o jogo é mais parecido com os primeiros jogos da série.</synopsis>
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>1944 - 循环的征服者</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="2000" month="" day=""/>
@@ -38,7 +41,7 @@
 	<game name="19xx - The War Against Destiny">
 		<id>37386A</id>
 	<locale lang="EN">
-	<title>19XX : The War Against Destiny</title>
+	<title>19XX - 命运否决战</title>
 	<synopsis>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</synopsis>
 	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
 	</locale>
@@ -57,6 +60,9 @@
 	<synopsis>19XX: A guerra contra o destino é um jogo de (arcade scrolling shooter) vertical feito pela Capcom em 1995 (com direitos do autor em 1996). O jogo é o quarto de uma série de shooters verticais da II Guerra Mundial feitos pela Capcom. A história se passa antes de uma guerra fictícia (Assim, o 19XX) é como um piloto solitário que tenta derrotar um exercito inteiro antes de outra Guerra Mundial começar, tudo isso logo se agrava a um apocalipse nuclear.</synopsis>
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>19XX - 命运否决战</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1996" month="" day=""/>
@@ -72,7 +78,7 @@
 	<game name="Alien Vs Predator">
 		<id>37388A</id>
 	<locale lang="EN">
-	<title>Alien VS Predator</title>
+	<title>异形对铁血战士</title>
 	<synopsis>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
 
 The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</synopsis>
@@ -92,6 +98,9 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 	<locale lang="PT">
 	<synopsis>San Drad, Califórnia, foi invadida pelos Aliens, e o Major melhorado ciberneticamente Dutch Schaefer e a tenente Linn Kurosawa foram abandonados por seus superiores e encurralados por um enxame de batedores Aliens. Antes que eles possam ser mortos, dois Predadores aparecem e destroem os Aliens. Os Predadores oferecem uma aliança com os dois seres humanos, a fim de impedir a infestação de Aliens.nnnnOs jogadores controlam até três dos quatro personagens: Dutch, Linn, Predadores Caçador e Predadores Guerreiro, e combatem os Aliens em vários ambientes. No processo, os personagens descobrem que a presença alienígena na Terra é o resultado de um experimento liderado pelo renegado general Bush dos fuzileiros navais coloniais dos EUA em conjunto com a corporação Weyland-Yutani. Eles destroem a colmeia Alien, derrubando um navio militar em San Drad, causando uma enorme explosão. O Predadores Guerreiro, em seguida, dá suas lâminas de pulso para Dutch e Linn em reconhecimento de suas habilidades como guerreiros, antes de os predadores partirem de volta ao espaço.</synopsis>
 	</locale>
+	<locale lang="ZHCN">
+		<title>异形对铁血战士</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1994" month="" day=""/>
@@ -107,7 +116,7 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 	<game name="Armored Warriors">
 		<id>37387A</id>
 	<locale lang="EN">
-	<title>Armored Warriors</title>
+	<title>装甲战士</title>
 	<synopsis>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
 
 But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
@@ -137,6 +146,9 @@ Luchas contra varios mechas, tanques, otros vehículos y jefes y a lo largo del 
 	<locale lang="JA">
 	<title>Powered Gear: Strategic Variant Armor Equipment</title>
 	</locale>
+	<locale lang="ZHCN">
+		<title>装甲战士</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1994" month="" day=""/>
@@ -152,7 +164,7 @@ Luchas contra varios mechas, tanques, otros vehículos y jefes y a lo largo del 
 	<game name="Battle Circuit">
 		<id>37389A</id>
 	<locale lang="EN">
-	<title>Battle Circuit</title>
+	<title>战斗回路</title>
 	<synopsis>Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the "Shiva System". Battle Circuit, which was Capcom's last beat 'em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.</synopsis>
 	<genre>Beat'em Up</genre>
 	</locale>
@@ -172,6 +184,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<locale lang="PT">
 	<synopsis>Battle Circuit acontece em uma Terra alternativa do futuro, o jogo gira em torno de um grupo de caçadores de recompensas que devem capturar o cientista louco Doutor Saturno e manter em segurança um disco de computador sofisticado carregando um programa conhecido como "Sistema Shiva". Battle Circuit, foi o último jogo de beat 'em up da Capcom para as arcadas, contém personagens de histórias em quadrinhos em um cenário de ficção científica futurista e é considerado por alguns como um clássico cult.</synopsis>
 	</locale>
+	<locale lang="ZHCN">
+		<title>战斗回路</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1997" month="" day=""/>
@@ -187,7 +202,7 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<game name="Capcom Sports Club">
 		<id>37390A</id>
 	<locale lang="EN">
-	<title>Capcom Sports Club</title>
+	<title>卡普空运动俱乐部</title>
 	<synopsis>Capcom Sports Club is an arcade game released by Capcom in 1997. It is a multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball), and Kick Stars (Football/Soccer).</synopsis>
 	<genre>Sports,Compilation</genre>
 	</locale>
@@ -205,6 +220,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<synopsis>Capcom Sports Club é um jogo de arcade lançado pela Capcom em 1997. É um jogo multi-esportivo que consiste em Smash Stars (Ténis), Dunk Stars (Basquete) e Kick Stars (Futebol).</synopsis>
 	<genre>Esporte,Compilação</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>卡普空运动俱乐部</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1997" month="" day=""/>
@@ -220,7 +238,7 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<game name="Cyberbots - Fullmetal Madness">
 		<id>37391A</id>
 	<locale lang="EN">
-	<title>Cyberbots : Fullmetal Madness</title>
+	<title>装甲之战 - 全金属狂潮</title>
 	<synopsis>Near the end of the 21st century, Earth begins to become overpopulated, leading to many people living in man-made space colonies. The primary army of Earth called "Earth Corps", has been conducting nefarious experiments and their work, along with the actions of the playable characters, will determine Earth's future.</synopsis>
 	<genre>Fight,Fight / Versus</genre>
 	</locale>
@@ -238,6 +256,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<synopsis>Perto do final do século 21, a Terra começa a ficar superpovoada, levando muitas pessoas a viverem em colônias espaciais construídas pelo homem. O exército primário da Terra, chamado "Corpo da Terra", tem conduzido experiências nefastas e seu trabalho, junto com as ações dos personagens jogáveis, determinará o futuro da Terra.</synopsis>
 	<genre>Luta,Luta / Versus</genre>
 	</locale>
+	<locale lang="ZHCN">
+		<title>装甲之战 - 全金属狂潮</title>
+	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<date year="1995" month="" day=""/>
@@ -253,7 +274,7 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<game name="Dimahoo">
 		<id>37394A</id>
 	<locale lang="EN">
-	<title>Dimahoo</title>
+	<title>超级魔法大作战</title>
 	<synopsis>The game is set in a futuristic environment with dragons, little turtles with lasers on their back, and little green goblins with red eyes. The player picks one of four friends to travel with. The two characters fly through the levels in the game and collect items. Each item has a point value and the points are used to fill up a chart at the end. The items include: food, swords, armors, boots, etc. Towards the end of the game, the bosses become incredibly hard. The fast backgrounds create a confusing state of mind for the player.</synopsis>
 	<genre>Shoot'em up / Vertical,Shoot'em Up</genre>
 	</locale>
@@ -274,6 +295,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<locale lang="JA">
 	<title>Great Mahou Daisakusen</title>
 	</locale>
+	<locale lang="ZHCN">
+		<title>超级魔法大作战</title>
+	</locale>
 		<developer>Raizing</developer>
 		<publisher>Raizing</publisher>
 		<date year="2000" month="" day=""/>
@@ -289,7 +313,7 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<game name="Dungeons And Dragons - Shadow Over Mystara">
 		<id>37392A</id>
 	<locale lang="EN">
-	<title>Dungeons &amp; Dragons : Shadow over Mystara</title>
+	<title>龙与地下城 - 暗黑秘影</title>
 	<synopsis>Dungeons &amp; Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons &amp; Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons &amp; Dragons Collection. The game is set in the Dungeons &amp; Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.</synopsis>
 	<genre>Beat'em Up</genre>
 	</locale>
@@ -303,6 +327,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	</locale>
 	<locale lang="DE">
 	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>龙与地下城 - 暗黑秘影</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -319,7 +346,7 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	<game name="Dungeons And Dragons - Tower Of Doom">
 		<id>37393A</id>
 	<locale lang="EN">
-	<title>Dungeons &amp; Dragons : Tower of Doom</title>
+	<title>龙与地下城 - 毁灭之塔</title>
 	<synopsis>Dungeons &amp; Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons &amp; Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons &amp; Dragons: Shadow over Mystara, under the title Dungeons &amp; Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.</synopsis>
 	<genre>Beat'em Up</genre>
 	</locale>
@@ -333,6 +360,9 @@ Tienes 5 personajes: Cyber Blue, un cazarrecompensas humano con accesorios ciber
 	</locale>
 	<locale lang="DE">
 	<genre>Beat'em Up</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>龙与地下城 - 毁灭之塔</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
