@@ -27,6 +27,9 @@
 | 18 | nemo.zip | 1309 | Nemo | 梦幻冒险 |
 | 19 | pang3.zip | 1501 | Pang! 3 | 魔法气泡3 |
 | 20 | pnickj.zip | 750 | Pnickies | 魔法方块 |
+
+| | ROM 文件 | 大小（KB）| 英文名 | 中文名 |
+| --- | --- | --- | --- | --- |
 | 21 | qad.zip | 2454 | Quiz & Dragons - Capcom Quiz Game | 龙之迷题 |
 | 22 | qtono2j.zip | 1900 | Quiz Tonosama No Yabou 2 - Zenkoku-ban | 城主的野心问答2 - 全国版 |
 | 23 | punisher.zip | 3947 | The Punisher | 惩罚者 |
