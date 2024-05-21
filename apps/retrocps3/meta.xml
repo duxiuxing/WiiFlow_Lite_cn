@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE app [ <!ENTITY % versionDTD SYSTEM "../../version.dtd"> %versionDTD; ]>
+<app version="1">
+  <name>FB Alpha 2012 CPS-3</name>
+  <coder>RetroArch-Wii</coder>
+  <version>0.2.97.29</version>
+  <release_date>2024</release_date>
+  <short_description>Capcom Play System 3</short_description> 
+  <long_description>A port of RetroArch to the Nintendo Wii.</long_description> 
+  <no_ios_reload/>
+</app>
