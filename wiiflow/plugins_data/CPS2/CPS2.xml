@@ -494,7 +494,7 @@ Il n'est cependant pas possible d'y faire s'affronter deux itérations originale
 	<game name="Janpai Puzzle Choukou">
 		<id>40548A</id>
 	<locale lang="EN">
-	<title>Janpai Puzzle Choukou</title>
+	<title>益智麻将牌 长江</title>
 	<synopsis>An adult shanghai game from Mitchell. The objective is to clear the board of matching tiles before the timer runs out.
 
 Each level consists a board with two or more columns of tiles and walls slowly moving toward the center of the board.  Every time a matching pair of tiles is cleared from the board the two columns momentarily shift away from the center. The game is lost if the opposing columns of tiles run into each other or into the wall. In order to legally remove matching tiles no walls or other tiles can be in a path with two or fewer bends between the matching tiles. Once per stage, the player can request help and the two columns will shift to their starting positions and matching tiles will be highlighted for a short time. If the player cannot legally remove any more tiles then the board is 'deadlocked', and the game is lost.
@@ -515,6 +515,9 @@ If the game is lost, upon continuing the player may select to attempt to clear t
 	</locale>
 	<locale lang="PT">
 	<genre>Quebra-cabeças,Quebra-cabeças / Igualar</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>益智麻将牌 长江</title>
 	</locale>
 		<developer>Mitchell Corporation</developer>
 		<publisher>Mitchell (Capcom license)</publisher>
@@ -718,7 +721,7 @@ Dans Mars Matrix, pas de power ups, mais un système d'expérience qui permet de
 	<game name="Mega Man - The Power Battle">
 		<id>150815</id>
 	<locale lang="EN">
-	<title>Mega Man: The Power Battle</title>
+	<title>洛克人 - 力量对决</title>
 	<synopsis>Doctor Wily is up to no good yet again, this time returning with 18 revived and improved Robot Masters. Mega Man and Proto Man proceed to stop him, while Bass destroys the inferior robots to show Wily that he is the only robot he needs.</synopsis>
 	<genre>Fight</genre>
 	</locale>
@@ -734,6 +737,9 @@ Dans Mars Matrix, pas de power ups, mais un système d'expérience qui permet de
 	</locale>
 	<locale lang="JA">
 	<title>Rockman: The Power Battle</title>
+	</locale>
+	<locale lang="ZHCN">
+		<title>洛克人 - 力量对决</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
