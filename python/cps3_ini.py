@@ -1,4 +1,5 @@
 #-- coding: UTF-8 --
+# 计算 roms\\cps3 文件夹里面所有 ROM 文件的 CRC32，生成 wiiflow\\plugins_data\\CPS3\\CPS3.ini
 
 import os
 import zlib
@@ -7,7 +8,7 @@ from configparser import ConfigParser
 from local_configs import LocalConfigs
 
 
-def compute_crc(file_path):
+def compute_crc32(file_path):
     with open(file_path, 'rb') as file:
         data = file.read()
         crc = zlib.crc32(data)
@@ -30,7 +31,7 @@ for item_name in os.listdir(cps3_roms_dir):
         file_extension = item_path.split(".")[-1]
         if file_extension == "zip":
             option = str(item_name)[:-4]
-            value = f"{str(game_id)}|{compute_crc(item_path)}"
+            value = f"{str(game_id)}|{compute_crc32(item_path)}"
             config_parser.set(cps3_section, option, value)
             game_id = game_id + 1
 
