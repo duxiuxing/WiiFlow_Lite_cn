@@ -331,7 +331,7 @@ Situado em um futuro distante, um deus maligno conhecido como Imperador BIOS des
 	<game name="Frog Feast">
 		<id>122981</id>
 	<locale lang="EN">
-	<title>Frog Feast</title>
+	<title>青蛙捕虫</title>
 	<synopsis>Home Made game. Frog Feast is an adaptation of the Intellvision game "Frog Bog".
 The game concept is pretty simple: 2 Frogs who have to eat as much insects as possible in a limited time.</synopsis>
 	<genre>Platform</genre>
@@ -350,6 +350,9 @@ The game concept is pretty simple: 2 Frogs who have to eat as much insects as po
 	<locale lang="PT">
 	<synopsis>Frog Feast é um jogo caseiro e uma adaptação do jogo para Intellivision "Frog Bog".nnO conceito do jogo é bem simples: 2 rãs que precisam comer o máximo de insetos possível em um tempo limitado.</synopsis>
 	</locale>
+	<locale lang="ZHCN">
+		<title>青蛙捕虫</title>
+	</locale>
 		<developer>Rastersoft</developer>
 		<publisher>Rastersoft</publisher>
 		<date year="2006" month="" day=""/>
@@ -365,7 +368,7 @@ The game concept is pretty simple: 2 Frogs who have to eat as much insects as po
 	<game name="Ganbare! Marine Kun">
 		<id>41385A</id>
 	<locale lang="EN">
-	<title>Ganbare! Marine Kun</title>
+	<title>加油！海洋君</title>
 	<synopsis>Ganbare Marin-kun is the final and probably rarest game released on CPS1. I don't know anyone who had even heard of it until it showed up for sale. It's a medal game but along with Tobikose Jumpman and Alien, the best of them I have seen. The music rips off several things including the Indiana Jones theme song.</synopsis>
 	<genre>Shooter,Shooter / 3rd person</genre>
 	</locale>
@@ -383,6 +386,9 @@ The game concept is pretty simple: 2 Frogs who have to eat as much insects as po
 	<locale lang="PT">
 	<synopsis>Ganbare Marin-kun é o último e provavelmente mais raro jogo lançado no CPS1. Eu não conheço ninguém que tenha ouvido falar até que ele apareceu para venda. É um jogo de medalhas, mas junto com Tobikose Jumpman e Alien, os melhores que eu já vi. A música copia várias coisas, incluindo a música tema do Indiana Jones.</synopsis>
 	<genre>Tiro,Tiro / Tiro em 3ª pessoa</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>加油！海洋君</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -868,7 +874,7 @@ Il faudra donc agencer vos Pnickies de manière à les détruire. Pour ce faire,
 	<game name="Pokonyan! Balloon">
 		<id>120706</id>
 	<locale lang="EN">
-	<title>Pokonyan! Balloon</title>
+	<title>叮当猫</title>
 	<synopsis>Pokonyan! Balloon is a rare Capcom Game from Kids Amusement park, you are in a balloon, droping flower and catching other ballon.</synopsis>
 	<genre>Shoot'em Up</genre>
 	</locale>
@@ -885,6 +891,9 @@ Il faudra donc agencer vos Pnickies de manière à les détruire. Pour ce faire,
 	</locale>
 	<locale lang="PT">
 	<synopsis>Pokonyan! Balloon é um raro jogo da Capcom do Kids Amusement Park.nnVocê está em um balão, soltando flores e pegando outro balão.</synopsis>
+	</locale>
+	<locale lang="ZHCN">
+		<title>叮当猫</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
