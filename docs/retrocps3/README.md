@@ -1,4 +1,4 @@
-# 认真玩 CPS2 插件
+# 认真玩 CPS3
 
 
 ## Arcade CPS2.dol
