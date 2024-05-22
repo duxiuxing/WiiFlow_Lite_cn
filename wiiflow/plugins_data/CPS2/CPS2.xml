@@ -957,7 +957,7 @@ Le joueur doit se frayer un chemin parmi les labyrinthes formés par les tirs en
 	<game name="Quiz Nanairo Dreams - Nijiirochou No Kiseki">
 		<id>42597A</id>
 	<locale lang="EN">
-	<title>Quiz Nanairo Dreams: Nijiirochou no Kiseki</title>
+	<title>七彩梦 - 虹色町的奇迹</title>
 	<synopsis>Quiz Nanairo Dreams - Nijiirochou no Kiseki is a quiz game where your goal is to befriend a number of female and obtain the crystals which are used to defeat the Devil King.</synopsis>
 	<genre>Quiz,Quiz / Japanese</genre>
 	</locale>
@@ -974,6 +974,9 @@ Le joueur doit se frayer un chemin parmi les labyrinthes formés par les tirs en
 	</locale>
 	<locale lang="PT">
 	<genre>Quiz,Quiz / Japonês</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>七彩梦 - 虹色町的奇迹</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1153,7 +1156,7 @@ The other major change over the Street Fighter 2 series are the Alpha counters. 
 	<game name="Street Fighter Zero 2 Alpha">
 		<id>43009A</id>
 	<locale lang="EN">
-	<title>Street Fighter Zero 2 Alpha</title>
+	<title>少年街霸2 Alpha</title>
 	<synopsis>Street Fighter Zero 2 Alpha is an enhanced version of "Street Fighter Zero 2" released in arcades in Japan, southeast Asia, Brazil, and Hispanic regions. In North America and Europe, where its predecessor is known as "Street Fighter Alpha 2", this enhanced version appears on home consoles only.</synopsis>
 	<genre>Fight,Fight / Versus</genre>
 	</locale>
@@ -1169,6 +1172,9 @@ The other major change over the Street Fighter 2 series are the Alpha counters. 
 	</locale>
 	<locale lang="PT">
 	<genre>Luta,Luta / Versus</genre>
+	</locale>
+	<locale lang="ZHCN">
+		<title>少年街霸2 Alpha</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
