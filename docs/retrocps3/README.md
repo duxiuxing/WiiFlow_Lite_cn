@@ -1,7 +1,9 @@
 # 认真玩 CPS3
 
 
-## Arcade CPS2.dol
+## fba_cps3.dol
+
+- Last Updated:	FB Alpha 2012 CPS-3 v0.2.97.29
 
 来自 RA-HEXAECO，目前收集到的 ROM 都可以用它来玩：
 
@@ -59,14 +61,17 @@
 启动 RA-SS CPS2 之后，可以在 Load Core 中选择 `Arcade FBNEO.dol`，这样就可以使用它来加载 ROM 文件了。
 
 
-## fbalpha2012_cps2_libretro_wii.dol
+## fbalpha2012_cps3_libretro_wii.dol
 
 - Download: <https://buildbot.libretro.com>
+- Last Updated:	1.7.6 - FB Alpha 2012 CPS-3 v0.2.97.29
 
 来自 Retroarch-Wii，随着版本迭代，它的体积越来越大，然而它的稳定性不升反降，实属逆天，我暂时不考虑使用它。
 
 启动 RA-SS CPS2 之后，可以在 Load Core 中选择 `fbalpha2012_cps2_libretro_wii.dol`，这样就可以使用它来加载 ROM 文件了。
 
+代码：<https://github.com/libretro/fbalpha2012_cps3>
+下载：<https://mundowiihack.wordpress.com/2021/01/26/wii-final-burn-alpha-cps3-r0-1>
 
 # mame2000_libretro_wii.dol
 

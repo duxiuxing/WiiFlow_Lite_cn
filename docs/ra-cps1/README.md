@@ -1,7 +1,26 @@
 # 认真玩 CPS1
 
+论坛：<https://www.arcade-projects.com/forums/capcom-cps1.80>
 
-## fba_cps1.dol
+## RetroArch-Wii
+
+- 开源代码：<https://github.com/libretro/fbalpha2012_cps1>
+- 持续集成：<https://buildbot.libretro.com/>
+- 下载: <https://mundowiihack.wordpress.com/tag/final-burn-alpha-cps1>
+
+
+## RetroArch-Hexaeco
+
+- 论坛：<https://gbatemp.net/threads/retroarch-hexaeco-emulators.600834>
+- 开源代码：<https://github.com/SuperrSonic/RA-SS>
+- APP 下载: <https://www.mediafire.com/folder/9h2hktvgyomdt/RA-SS_Modified>
+- 频道下载：<https://www.mediafire.com/folder/kup4smqh4aw45/RunningSnakes_Forwarders>
+
+
+## ra-cps1
+
+- 来自
+- 版本：FB Alpha 2012 CPS-1 v0.2.97.28
 
 来自 RA-HEXAECO，目前收集到的 33 个 ROM 都可以用它来玩：
 
@@ -18,7 +37,7 @@
 | 9 | forgottn.zip | 1891 | Forgotten Worlds | 失落的世界 |
 | 10 | ghouls.zip | 1571 | Ghouls'n Ghosts | 大魔界村 |
 | 11 | knights.zip | 2301 | Knights of the Round | 圆桌骑士 |
-| 12 | kod.zip | 2306 | The King Of Dragons | 龙王战士 |
+| 12 | kod.zip | 2306 | The King Of Dragons | 龙王 |
 | 13 | megaman.zip | 3225 | Mega Man - The Power Battle | 洛克人 - 力量之战 |
 | 14 | mbombrd.zip | 6357 | Muscle Bomber Duo - Ultimate Team Battle | 摔角霸王 - 最终之战 |
 | 15 | mercs.zip | 1713 | Mercs | 战场之狼2 |
@@ -33,10 +52,10 @@
 | 21 | qad.zip | 2454 | Quiz & Dragons - Capcom Quiz Game | 龙之迷题 |
 | 22 | qtono2j.zip | 1900 | Quiz Tonosama No Yabou 2 - Zenkoku-ban | 城主的野心问答2 - 全国版 |
 | 23 | punisher.zip | 3947 | The Punisher | 惩罚者 |
-| 24 | sf2.zip | 3469 | Street Fighter 2 - The World Warrior | 街头霸王II - 天下斗士 |
-| 25 | sf2ce.zip | 3501 | Street Fighter 2 - Champion Edition | 街头霸王II - 四大天王 |
-| 26 | sf2hf.zip | 3556 | Street Fighter 2 - Hyper Fighting | 街头霸王II - 究极格斗 |
-| 27 | sfzch.zip | 3800 | Street Fighter Alpha - Warriors' Dreams | 少年街霸 - 斗士的梦想 |
+| 24 | sf2.zip | 3469 | Street Fighter II - The World Warrior | 街头霸王II - 天下斗士 |
+| 25 | sf2ce.zip | 3501 | Street Fighter II' - Champion Edition | 街头霸王II - 四大天王 |
+| 26 | sf2hf.zip | 3556 | Street Fighter II' - Hyper Fighting | 街头霸王II - 究极格斗 |
+| 27 | sfzch.zip | 3800 | Street Fighter Zero | 少年街霸 |
 | 28 | slammast.zip | 6434 | Saturday Night Slam Masters | 摔角霸王 |
 | 29 | strider.zip | 6390 | Strider | 出击飞龙 |
 | 30 | unsquad.zip | 1244 | U.N. Squadron | 战区88 |
@@ -68,10 +87,14 @@
 ## fbalpha2012_cps1_libretro_wii.dol
 
 - Download: <https://buildbot.libretro.com>
+- Last Updated:	v1.7.6 FB Alpha 2012 CPS-1 v0.2.97.28
 
 来自 Retroarch-Wii，随着版本迭代，它的体积越来越大，然而它的稳定性不升反降，实属逆天，我暂时不考虑使用它。
 
 启动 RA-SS CPS1 之后，可以在 Load Core 中选择 `fbalpha2012_cps1_libretro_wii.dol`，这样就可以使用它来加载 ROM 文件了。
+
+代码：<https://github.com/libretro/fbalpha2012_cps1>
+下载：<https://mundowiihack.wordpress.com/2020/07/04/wii-final-burn-alpha-cps1-r0-1>
 
 
 # mame2000_libretro_wii.dol
