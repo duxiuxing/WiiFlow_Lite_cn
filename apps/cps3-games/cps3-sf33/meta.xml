@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Street Fighter III 3rd</name>
+  <author>R-Sam</author>
+  <version>1.0</version>
+  <release_date>2024</release_date>
+  <short_description>CPS3 Arcade</short_description> 
+  <long_description>- Name: Street Fighter III 3rd Strike - Fight for the Future
+- GameID: 800708
+- Developer &amp; Publisher: Capcom
+- Genre: Fight,Fight / Versus
+- Released: 1999
+- Players: 2
+
+- boot.dol is RetroArch CPS3</long_description>
+  <arguments>
+    <arg>sd:/roms/cps3</arg>
+    <arg>sfiii3.zip</arg>
+  </arguments>
+  <ahb_access/>
+</app>
