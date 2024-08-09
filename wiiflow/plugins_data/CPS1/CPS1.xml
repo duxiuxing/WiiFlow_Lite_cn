@@ -32,7 +32,7 @@ Foi o primeiro shoot 'em up para adicionar +1 ao placar quando um continue é us
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>1941 - 反击战</title>
+		<title>1941 反击战</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -74,7 +74,7 @@ Le jeu est en japonais, totalement injouable pour ceux ou celles qui ne maîtris
 	<title>Capcom World 2</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>卡普空世界2</title>
+		<title>卡普空世界冒险问答2</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -234,7 +234,7 @@ Au premier coup d'?il, cette suite de U.N Squadron / Area 88 a l'aspect d'un sho
 	<title>Tenchi wo Kurau</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>吞食天地</title>
+		<title>三国志 王朝战争</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -471,7 +471,7 @@ O jogo foi portado para o Super NES e lançado em 1994. Uma versão emulada do j
 	<genre>Briga de rua,Luta / 2.5D,Luta</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>龙王</title>
+		<title>龙王战士</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -551,7 +551,7 @@ No final do jogo, quando Drokmar é derrotado, o jogador tem a opção de duas t
 	<title>Magic Sword</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>魔法剑 - 英雄的幻想</title>
+		<title>魔法剑 英雄的幻想</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -600,7 +600,7 @@ Uma adaptação de ambos os jogos para o Neo Geo Pocket Color, intitulado Rockma
 	<title>Rockman: The Power Battle</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>洛克人 - 力量之战</title>
+		<title>洛克人 力量之战</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -735,7 +735,7 @@ Silent Assassins (Scorpion and Jumbo)</synopsis>
 	<title>Muscle Bomber Duo: Heat Up Warriors</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>摔角霸王 - 最终之战</title>
+		<title>摔角霸王 最终之战</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -985,7 +985,7 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<game name="Quiz Tonosama No Yabou 2 - Zenkoku-ban">
 		<id>42606A</id>
 	<locale lang="EN">
-	<title>Quiz Tonosama no Yabou 2: Zenkoku-ban</title>
+	<title>Quiz Tonosama no Yabou 2 - Zenkoku-ban</title>
 	<synopsis>Quiz Tonosama no Yabou 2 - Zenkoku-ban is a feudal Japanese quiz game from Capcom.</synopsis>
 	<genre>Quiz,Quiz / Japanese</genre>
 	</locale>
@@ -1005,7 +1005,7 @@ Le joueur choisit un des quatre aventuriers entre le guerrier, le ninja, l'amazo
 	<genre>Quiz,Quiz / Japonês</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>城主的野心问答2 - 全国版</title>
+		<title>城主的野心问答2 全国版</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1091,7 +1091,7 @@ Hyper Fighting é o ultimo jogo da série a utilizar o hardware original do CP S
 	<title>Street Fighter II' Turbo: Hyper Fighting</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>街头霸王II - 究极格斗</title>
+		<title>街头霸王2 究极格斗</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1136,7 +1136,7 @@ Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype d
 	<genre>Luta,Luta / Versus</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>街头霸王II - 天下斗士</title>
+		<title>街头霸王2 天下斗士</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1173,7 +1173,7 @@ Un jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype d
 	<genre>Luta,Luta / Versus</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>街头霸王II - 四大天王</title>
+		<title>街头霸王2 四大天王</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1270,10 +1270,10 @@ Todavia, Hiryu, um valente guerreiro Strider, armado com sua poderosa espada cyp
 			<control type="gamecube" required="false"/>
 		</input>
 	</game>
-	<game name="Warriors Of Fate">
+	<game name="Warriors of Fate">
 		<id>44111A</id>
 	<locale lang="EN">
-	<title>Tenchi wo Kurau II - Sekiheki no Tatakai</title>
+	<title>Warriors of Fate</title>
 	<synopsis>Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.</synopsis>
 	<genre>Beat'em Up</genre>
 	</locale>
@@ -1299,7 +1299,7 @@ Sympa.</synopsis>
 	<title>Tenchi wo Kurau II: Sekiheki no Tatakai</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>吞食天地II - 赤壁之战</title>
+		<title>三国志2 赤壁之战</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1423,7 +1423,7 @@ Greg Gates: Greg voa um A-10 Thunderbolt; Este avião tem menor poder de fogo pa
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>威虎战机</title>
+		<title>威虎战机 雷暴行动</title>
 	</locale>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
